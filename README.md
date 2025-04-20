@@ -1,5 +1,6 @@
 # TP7DPBO2025C1
-**Desain Aplikasi**  
+**Desain Aplikasi** 
+![image](https://github.com/user-attachments/assets/82da7dd4-dc04-42fe-a727-7af051fe3fd5)
 Aplikasi “F1 Garage” ini dibangun sebagai sistem manajemen guru panggilan (“teachers”), anggota tim (“team_members”), dan penugasan (“assignments”). Secara umum desainnya terbagi menjadi tiga lapis:  
 1. **Database Layer**  
    - Tiga tabel utama:  
