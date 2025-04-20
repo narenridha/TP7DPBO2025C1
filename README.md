@@ -87,6 +87,8 @@ Di masing‑masing halaman, ditambahkan form pencarian yang mengirim parameter v
 
 Dengan pendekatan ini, setiap halaman mampu menampilkan daftar yang terfilter secara dinamis sesuai kata kunci pencarian tanpa merombak struktur utama aplikasi.
 
+---
 
+**Dokum**
 https://github.com/user-attachments/assets/7a8b1585-5a49-4b28-b7ad-92c4843f46bb
 
